@@ -28,9 +28,7 @@ and compare your results with their expected results.
 ## Project Description
 
 
-In this project, you'll apply what 
-you've learned on data warehouses and
-AWS to build an ETL pipeline for a 
+In this project,build an ETL pipeline for a 
 database hosted on Redshift. 
 To complete the project, 
 you will need to load data from S3 
